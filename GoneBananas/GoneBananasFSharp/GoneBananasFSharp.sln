@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "GoneBananasFSharp", "GoneBananasFSharp.fsproj", "{02355E2F-2514-418B-B232-B7F77F28DDD1}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "GoneBananasFSharpX", "GoneBananasFSharpX\GoneBananasFSharpX.fsproj", "{809EE263-D9AC-497B-915B-2C64ED61F90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02355E2F-2514-418B-B232-B7F77F28DDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02355E2F-2514-418B-B232-B7F77F28DDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02355E2F-2514-418B-B232-B7F77F28DDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02355E2F-2514-418B-B232-B7F77F28DDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809EE263-D9AC-497B-915B-2C64ED61F90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809EE263-D9AC-497B-915B-2C64ED61F90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809EE263-D9AC-497B-915B-2C64ED61F90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809EE263-D9AC-497B-915B-2C64ED61F90A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GoneBananasFSharp.fsproj
+	EndGlobalSection
+EndGlobal
